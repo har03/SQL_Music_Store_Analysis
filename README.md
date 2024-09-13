@@ -6,15 +6,15 @@ This project analyzes a music store database to extract insights and trends usin
 📊 Datasets
 The project uses a relational database of a music store, which contains the following tables:
 
-Customers: Information about customers like name, location, and contact.
-Invoices: Details about invoices, including invoice date, customer ID, and total cost.
-Invoice_Items: Details of each invoice line item such as track, unit price, and quantity.
-Tracks: Details of tracks, including name, album, genre, and composer.
-Albums: Information about albums, including title and artist.
-Artists: Information about artists, including name and artist ID.
-Genres: Information about different music genres.
-Employees: Information about store employees.
-Playlists: Details of playlists available in the music store.
+1. Customers: Information about customers like name, location, and contact.
+2. Invoices: Details about invoices, including invoice date, customer ID, and total cost.
+3. Invoice_Items: Details of each invoice line item such as track, unit price, and quantity.
+4. Tracks: Details of tracks, including name, album, genre, and composer.
+5. Albums: Information about albums, including title and artist.
+6. Artists: Information about artists, including name and artist ID.
+7. Genres: Information about different music genres.
+8. Employees: Information about store employees.
+9. Playlists: Details of playlists available in the music store.
 
 🛠️ Technologies Used
 SQL: Used to query the database and extract meaningful insights.
